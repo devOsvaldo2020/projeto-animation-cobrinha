@@ -1,7 +1,7 @@
 # projuto-botao-loard
 
-#funcao rotate do css
+# funcao rotate do css
 
-#Link do projeto:
+# Link do projeto:
 
-https://devosvaldo2020.github.io/projuto-funcao-rotate-css/
+
